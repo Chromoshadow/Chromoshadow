@@ -1,25 +1,70 @@
 ## Hi there 👋
 
-Marc Laurent
+Molecular Genetics PhD | Biology × Data × AI
 
-Molecular Genetics PhD | Bioinformatics & Genomics
+I am a molecular biologist with a PhD in genetics and international research experience in genomics and epigenetics.
 
+My background combines experimental biology, computational data analysis and professional experience in data engineering. I am particularly interested in leveraging computational methods and AI to address questions in biomedical research.
 
-Molecular biologist transitioning into bioinformatics, with a background in genomics, epigenetics and data engineering.
+🔬 Areas of Interest
 
-Currently exploring
-- RNA-seq and differential gene expression
-- Genomics and computational biology
-- Python, R and reproducible workflows
-- AI/ML applications in biomedical research
-Technical stack
+Genomics & Bioinformatics — RNA-seq, gene expression analysis, epigenomics and computational biology.
 
-Python R SQL Linux Git Docker DESeq2 Scanpy
+Data & Computing — Python, SQL, data processing and reproducible workflows.
 
-Featured projects
-- RNA-seq analysis – KMT2D and neuronal differentiation
-- Single-cell / chromatin accessibility analysis
-- Computational biology projects
+AI & Machine Learning — Exploring applications of ML and AI in biology and biomedical research.
+
+🛠️ Technologies
+
+Programming & Data
+
+Python · R · SQL · Bash
+
+Bioinformatics
+
+DESeq2 · Scanpy · RNA-seq · Genomics
+
+Tools & Infrastructure
+
+Linux · Git · Docker · Snowflake · dbt · Google Cloud
+
+🧬 Selected Projects
+
+RNA-seq Analysis – KMT2D and Neuronal Differentiation
+
+Exploring gene expression changes associated with KMT2D mutations across different stages of neuronal differentiation.
+
+RNA-seq count data processing
+
+Quality control and exploratory data analysis
+
+Principal component analysis (PCA)
+
+Differential gene expression analysis
+
+Single-Cell & Chromatin Accessibility Analysis
+
+Exploring chromatin accessibility during human first-trimester neurodevelopment.
+
+Single-cell data exploration
+
+Quality control and preprocessing
+
+Computational analysis using Python and Scanpy
+
+🎓 Background
+
+PhD in Molecular Genetics — Research on DNA replication in vertebrates.
+
+Postdoctoral Research — Karolinska Institutet, studying chromatin regulation in human biology.
+
+Data Engineering — Professional experience at Atos, working with SQL, Python, Snowflake and dbt.
+
+Computer Science — École 42 Paris.
+
+📫 Let's Connect
+
+Interested in bioinformatics, computational biology, biomedical research, data science and AI 
 
 <!--
 **Chromoshadow/Chromoshadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
