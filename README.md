@@ -8,9 +8,11 @@ My background combines experimental biology, computational data analysis and pro
 
 ## Areas of Interest
 
-Genomics & Bioinformatics — RNA-seq, gene expression analysis, epigenomics and computational biology.
-Data & Computing — Python, SQL, data processing and reproducible workflows.
-AI & Machine Learning — Exploring applications of ML and AI in biology and biomedical research.
+Genomics & Bioinformatics, RNA-seq, gene expression analysis, epigenomics and computational biology.
+
+Data & Computing, Python, SQL, data processing and reproducible workflows.
+
+AI & Machine Learning, Exploring applications of ML and AI in biology and biomedical research.
 
 ## Technologies
 
@@ -37,10 +39,10 @@ Exploring chromatin accessibility during human first-trimester neurodevelopment.
 
 ## Background
 
-PhD in Molecular Genetics — Research on DNA replication in vertebrates.
-Postdoctoral Research — Karolinska Institutet, studying chromatin regulation in human biology.
-Data Engineering — Professional experience at Atos, working with SQL, Python, Snowflake and dbt.
-Computer Science — École 42 Paris.
+PhD in Molecular Genetics, Research on DNA replication in vertebrates.
+Postdoctoral Research, Karolinska Institutet, studying chromatin regulation in human biology.
+Data Engineering, Professional experience at Atos, working with SQL, Python, Snowflake and dbt.
+Computer Science, École 42 Paris.
 
 ## Let's Connect
 
