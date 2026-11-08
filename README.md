@@ -44,7 +44,8 @@ Computer Science — École 42 Paris.
 
 ## Let's Connect
 
-Interested in bioinformatics, computational biology, biomedical research, data science and AI 
+Interested in bioinformatics, computational biology, biomedical research, data science and AI
+https://www.linkedin.com/in/marc-laurent-a5054042/?locale=en-US
 
 <!--
 **Chromoshadow/Chromoshadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
