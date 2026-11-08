@@ -17,36 +17,49 @@ AI & Machine Learning, Exploring applications of ML and AI in biology and biomed
 ## Technologies
 
 Programming & Data
+
 Python · R · SQL · Bash
+
 Bioinformatics
+
 DESeq2 · Scanpy · RNA-seq · Genomics
 
 ## Tools & Infrastructure
 
-Linux · Git · Docker · Snowflake · dbt · Google Cloud
+Linux · Git · Docker · Snowflake · Google Cloud
 
 ## Selected Projects
 
 RNA-seq Analysis – KMT2D 
 
 Exploring gene expression changes associated with KMT2D mutations across different stages of neuronal differentiation.
+
 RNA-seq count data processing
+
 Quality control and exploratory data analysis
+
 Principal component analysis (PCA)
+
 Differential gene expression analysis
+
 Single-Cell & Chromatin Accessibility Analysis
-Exploring chromatin accessibility during human first-trimester neurodevelopment.
+
+Exploring chromatin accessibility during human first-trimester neurodevelopment
 
 ## Background
 
 PhD in Molecular Genetics, Research on DNA replication in vertebrates.
+
 Postdoctoral Research, Karolinska Institutet, studying chromatin regulation in human biology.
-Data Engineering, Professional experience at Atos, working with SQL, Python, Snowflake and dbt.
+
+Data Engineering, Professional experience at Atos, working with SQL, Python and Snowflake.
+
 Computer Science, École 42 Paris.
 
 ## Let's Connect
 
 Interested in bioinformatics, computational biology, biomedical research, data science and AI
+
 https://www.linkedin.com/in/marc-laurent-a5054042/?locale=en-US
 
 <!--
